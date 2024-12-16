@@ -11,7 +11,7 @@
 
 - <a href="https://github.com/P-furtado/ad-azuresetup"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
 - <a href="https://github.com/P-furtado/ad_deployment_Config"> Active Directory Deployment and Configuration </a>
-- <a href="https://github.com/kirkgacias/ad-user-generation">Active Directory: User Generation </a>
+- <a href="https://github.com/P-furtado/AD-USER-GEN">Active Directory: User Generation </a>
 
 <h2>Key Objectives</h2>
 
